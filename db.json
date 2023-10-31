@@ -1,0 +1,29 @@
+{
+  "globalData": [
+    {
+      "id": 1,
+      "logRate": 222,
+      "eventRate": 115
+    }
+  ],
+  "countries": [
+    {
+      "id": 1,
+      "name": "Canada",
+      "logRate": 150,
+      "eventRate": 80
+    },
+    {
+      "id": 2,
+      "name": "France",
+      "logRate": 200,
+      "eventRate": 90
+    },
+    {
+      "id": 3,
+      "name": "USA",
+      "logRate": 250,
+      "eventRate": 100
+    }
+  ]
+}
