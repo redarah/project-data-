@@ -11,19 +11,25 @@
       "id": 1,
       "name": "Canada",
       "logRate": 150,
-      "eventRate": 80
+      "eventRate": 80,
+      "latitude": 56.1304,
+      "longitude": -106.3468
     },
     {
       "id": 2,
       "name": "France",
       "logRate": 200,
-      "eventRate": 90
+      "eventRate": 90,
+      "latitude": 46.6034,
+      "longitude": 1.8883
     },
     {
       "id": 3,
       "name": "USA",
       "logRate": 250,
-      "eventRate": 100
+      "eventRate": 100,
+      "latitude": 37.0902,
+      "longitude": -95.7129
     }
   ]
 }
